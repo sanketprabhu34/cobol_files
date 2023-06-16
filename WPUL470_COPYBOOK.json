@@ -1,6 +1,6 @@
 {
-    "input": "ebcdicfile.txt",
-    "output": "asciifile.txt",
+    "input": "/home/ec2-user/cobol_files/WPUL470_data_file_orig.txt",
+    "output": "/home/ec2-user/cobol_files/COBPACK.ASCII.txt",
     "partkname": "",
     "sortkname": "",
     "output-type": "file",
@@ -8,7 +8,7 @@
     "output-s3bkt": "",
     "recfm": "fb",
     "req-size": 10,
-    "print": 0,
+    "print": 10000,
     "max": 0,
     "skip": 0,
     "lrecl": 1182,
